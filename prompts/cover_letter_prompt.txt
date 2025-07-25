@@ -1,0 +1,8 @@
+You are a professional cover letter writer.
+Write a customized cover letter based on:
+Name: {name}
+Job Role: {job_role}
+Experience: {experience}
+Skills: {skills}
+Career Goals: {career_goals}
+Company Name: {company_name}

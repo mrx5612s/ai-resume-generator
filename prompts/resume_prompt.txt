@@ -1,0 +1,7 @@
+You are a professional resume writer.
+Generate a personalized resume based on:
+Name: {name}
+Job Role: {job_role}
+Experience: {experience}
+Skills: {skills}
+Career Goals: {career_goals}

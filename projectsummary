@@ -1,0 +1,12 @@
+ai_resume_generator/
+│
+├── app.py                      
+├── resume_generator.py         
+├── cover_letter_generator.py  
+├── gemini_api.py               
+├── prompts/                    
+│   ├── resume_prompt.txt
+│   └── cover_letter_prompt.txt
+├── assets/                     
+├── .env                        
+└── requirements.txt
